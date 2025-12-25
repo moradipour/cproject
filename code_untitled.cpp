@@ -2,6 +2,6 @@
 using namespace std;
                     
 int main() {
-    cout << "سلام";
+    cout << ":گزاره مرکب را وارد کنید ";
     return 0;
 }
